@@ -1,3 +1,4 @@
+@iceandfire
 Feature: Executar testes funcionais nas APIs do Ice And Fire
 
 Scenario: Verificar o retorno com sucesso da API /characters/452/ com dados válidos de requisição (request)

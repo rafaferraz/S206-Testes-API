@@ -9,7 +9,7 @@ public class IceandfireTestRunner {
     @Test
     void testParallel() {
         Results results = Runner.path("classpath:testes_api")
-                .tags("~@ignore")
+                .tags("@iceandfire")
                 //.outputCucumberJson(true)
                 .parallel(5);
         assertEquals(0, results.getFailCount(), results.getErrorMessages());
