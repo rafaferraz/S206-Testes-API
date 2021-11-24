@@ -5,7 +5,7 @@ A API utilizada foi sobre Game of Thrones e está disponível em https://anapiof
 
 ## 💻 Como executar
 
-1. Abrir o terminal do GIT Bash na pasta `testes_karate` para que o Maven possa encontrar o aquivo 'pom.xml'
+1. Abrir o terminal do GIT Bash na pasta `testes_karate` para que o Maven possa encontrar o aquivo `pom.xml`
 
 2. É possível executar a suíte de testes através Runner ou através do seguinte comando: 
 ```
